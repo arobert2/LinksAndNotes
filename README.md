@@ -9,3 +9,7 @@ https://www.codemag.com/Article/2105051/Implementing-JWT-Authentication-in-ASP.N
 https://jasonwatmore.com/post/2021/04/30/net-5-jwt-authentication-tutorial-with-example-api
 
 https://www.c-sharpcorner.com/article/asp-net-core-web-api-5-0-authentication-using-jwtjson-base-token/
+
+.Net 5.0 Token Expiration
+
+https://damienbod.com/2017/10/16/securing-an-angular-signalr-client-using-jwt-tokens-with-asp-net-core-and-identityserver4/
