@@ -13,3 +13,11 @@ https://www.c-sharpcorner.com/article/asp-net-core-web-api-5-0-authentication-us
 .Net 5.0 Token Expiration
 
 https://damienbod.com/2017/10/16/securing-an-angular-signalr-client-using-jwt-tokens-with-asp-net-core-and-identityserver4/
+
+Distributed Systems and CRDTs
+
+https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+
+https://www.youtube.com/watch?v=yCcWpzY8dIA
+
+https://www.youtube.com/watch?v=x7drE24geUw
