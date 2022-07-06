@@ -21,3 +21,7 @@ https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 https://www.youtube.com/watch?v=yCcWpzY8dIA
 
 https://www.youtube.com/watch?v=x7drE24geUw
+
+Tenant DB
+
+https://codewithmukesh.com/blog/multitenancy-in-aspnet-core
